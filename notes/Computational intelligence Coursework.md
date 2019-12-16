@@ -1,9 +1,9 @@
 ---
 attachments: [Clipboard_2019-11-23-11-57-38.png, Clipboard_2019-11-23-11-58-03.png, Clipboard_2019-11-23-11-58-06.png, Clipboard_2019-11-23-12-03-34.png, CS3910_CI_AssignmentBrief_1_final.pdf]
-tags: [CS3190]
+tags: [CS3910-Coursework]
 title: Computational intelligence Coursework
 created: '2019-11-22T19:16:06.669Z'
-modified: '2019-11-25T14:43:14.819Z'
+modified: '2019-12-12T10:46:59.892Z'
 ---
 
 # Computational intelligence Coursework
@@ -51,8 +51,8 @@ Where n represent each day in the month
 - [Particle Swarm](https://learn-eu-central-1-prod-fleet01-xythos.s3-eu-central-1.amazonaws.com/5d2cb9c32e9d7/1512866?response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27Lecture%25203%2520-%2520Swarm%2520Intelligence%25281%2529.pdf&response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20191123T201845Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Credential=AKIAIZ3QX2YUHH4EOO3A%2F20191123%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=8431119950b8f025db9ab9d188e2a75b3f722441e0b5a3cae7dd024b44b42b3a)
 
 ## Hand In on the [12th of December]()
-Report with name - **Matas_Bartosevicius_CS3290_CI_solution** either as a pdf or document
-Code with name -  **Matas_Bartosevicius_CS3290_CI_solution.zip** , a zip of all code related files
+Report with name - **Matas_Bartosevicius_CS3190_CI_solution** either as a pdf or document
+Code with name -  **Matas_Bartosevicius_CS3190_CI_solution.zip** , a zip of all code related files
 
 #### Submitssion details
 - Source code: Online on Blackboard
