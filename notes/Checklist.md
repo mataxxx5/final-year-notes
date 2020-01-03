@@ -1,8 +1,9 @@
 ---
+deleted: true
 tags: [FYP]
 title: Checklist
 created: '2019-12-15T15:51:43.580Z'
-modified: '2019-12-15T15:54:04.305Z'
+modified: '2019-12-30T20:45:30.397Z'
 ---
 
 # Checklist
