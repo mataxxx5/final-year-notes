@@ -1,9 +1,9 @@
 ---
 attachments: [Clipboard_2019-11-23-11-57-38.png, Clipboard_2019-11-23-11-58-03.png, Clipboard_2019-11-23-11-58-06.png, Clipboard_2019-11-23-12-03-34.png, CS3910_CI_AssignmentBrief_1_final.pdf]
-tags: [CS3910-Coursework]
+tags: [CS3910-Coursework-1]
 title: Computational intelligence Coursework
 created: '2019-11-22T19:16:06.669Z'
-modified: '2019-12-12T10:46:59.892Z'
+modified: '2020-01-17T16:24:07.844Z'
 ---
 
 # Computational intelligence Coursework

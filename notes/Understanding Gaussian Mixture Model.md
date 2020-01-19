@@ -1,8 +1,9 @@
 ---
+deleted: true
 tags: [Maths]
 title: Understanding Gaussian Mixture Model
 created: '2019-12-08T19:26:23.869Z'
-modified: '2019-12-08T20:41:26.065Z'
+modified: '2020-01-18T12:55:45.364Z'
 ---
 
 # Understanding Gaussian Mixture Model
